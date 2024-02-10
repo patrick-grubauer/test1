@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 main1
 main2
 main3
-=======
-feature1
->>>>>>> b807c6e (Update test.txt)
