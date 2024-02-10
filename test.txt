@@ -1,3 +1,5 @@
-main5
-main6
-main7
+s(x)
+
+y(x)
+
+l(x)
